@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4800d3ec-8941-439a-a1b2-cfb77b535789" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehensive/Facd_recognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehensive/Pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/plot_cv_diabetes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/plot_cv_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/plot_digits_classification_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/plot_iris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/plot_iris_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Conventions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Learning_and_predicting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Model_persistence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/loading_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical_Learn/Data_estimator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical_Learn/Model_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical_Learn/Supervised_learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Decompositions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据库/Database System Concepts (Sixth Edition).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据库/数据库系统概念_中文第六版.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据库/课件/数据库系统基础讲义第01讲-初步认识数据库系统 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据库/课件/数据库系统基础讲义第02讲-数据库系统的结构抽象与演变.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据库/课件/数据库系统基础讲义第04讲关系模型之关系代数.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/PRML中文版.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/Pages_from_Pattern Recognition And Machine Learning-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/Pages_from_Pattern Recognition And Machine Learning1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/solution of Pattern Classificaiton.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/华盛顿大学作业/hw0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/华盛顿大学作业/hw1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/13. 感知器与激活函数.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/14. 多层感知器与BP算法.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/15. 卷积神经网络.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/16. 卷积神经网络进阶.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/17. 循环神经网络.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/18. 生成式对抗网络.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/19. 图像分类与检测.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/20. 图像生成与人机交互.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/实验 分类器实验与评价.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/实验 深度学习工具.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/第10讲 概率密度函数的参数、非参数估计.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/第11讲 高斯混合模型与EM算法.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/第12讲 隐马尔可夫模型.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/第1讲 绪论.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/第2讲 距离分类器.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/第3、4讲 线性判别函数分类器.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/第5讲 支持向量机.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/第6讲 特征选择与特征提取.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/第7、8讲 聚类分析.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/第9讲 统计分类器.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/教学设计ppt初稿/补充  线性空间基础.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/模式分类.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../模式匹配与深度学习/西瓜书.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../测网速/PingMooc.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../测网速/第一次网络测试.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/ALSUdragonbook.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/编译原理(哈工大).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/编译原理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/2019实验安排.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter0.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter1.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter10.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter11.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter2.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter3.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter4.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter5.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter6.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter7.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter8.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/chapter9.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/rcomch9.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/各种语言成分的语法及其翻译方案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/复习.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/实验指导书报告版2018.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/编译原理总复习 2.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../编译原理/课件/编译原理总复习.ppt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1325201981">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="18" />
+          <entry key="py" value="8582" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Python" value="8582" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Introduction/Conventions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Comprehensive/Facd_recognition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fit</find>
+      <find>predict</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/loading_data.py" />
+        <option value="$PROJECT_DIR$/Learning_and_predicting.py" />
+        <option value="$PROJECT_DIR$/Model_persistence.py" />
+        <option value="$PROJECT_DIR$/Conventions.py" />
+        <option value="$PROJECT_DIR$/Statistical_learn_Data_estimator.py" />
+        <option value="$PROJECT_DIR$/Statistical_learn_Supervised_learn.py" />
+        <option value="$PROJECT_DIR$/Statistical_learn_Model_selection.py" />
+        <option value="$PROJECT_DIR$/Unsupervised_Learning/K_means.py" />
+        <option value="$PROJECT_DIR$/Unsupervised_Learning/Clustering.py" />
+        <option value="$PROJECT_DIR$/Unsupervised_Learning/Decompositions.py" />
+        <option value="$PROJECT_DIR$/Statistical_Learn/Supervised_learn.py" />
+        <option value="$PROJECT_DIR$/Unsupervised_Learning/Comprehensive.py" />
+        <option value="$PROJECT_DIR$/Comprehensive/Facd_recognition.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="261" />
+    <option name="width" value="952" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/大三下/PycharmProjects/sklearn_project/tutorial/loading_data.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\大三下\PycharmProjects\sklearn_project\tutorial\Introduction" />
+      <recent name="F:\大三下\PycharmProjects\sklearn_project\tutorial\Comprehensive" />
+      <recent name="F:\大三下\PycharmProjects\sklearn_project\tutorial\Exercise" />
+      <recent name="F:\大三下\PycharmProjects\sklearn_project\tutorial\Statistical_Learn" />
+      <recent name="F:\大三下\PycharmProjects\sklearn_project\tutorial" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Facd_recognition">
+    <configuration name="Clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unsupervised_Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unsupervised_Learning/Clustering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Comprehensive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unsupervised_Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\大三下\PycharmProjects\sklearn_project\tutorial\Comprehensive\Pipeline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Decompositions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unsupervised_Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unsupervised_Learning/Decompositions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Facd_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Comprehensive" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comprehensive/Facd_recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Statistical_learn_Model_selection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\大三下\PycharmProjects\sklearn_project\tutorial\Statistical_Learn\Model_selection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Statistical_learn_Model_selection" />
+      <item itemvalue="Python.Clustering" />
+      <item itemvalue="Python.Decompositions" />
+      <item itemvalue="Python.Comprehensive" />
+      <item itemvalue="Python.Facd_recognition" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Facd_recognition" />
+        <item itemvalue="Python.Comprehensive" />
+        <item itemvalue="Python.Decompositions" />
+        <item itemvalue="Python.Clustering" />
+        <item itemvalue="Python.Statistical_learn_Model_selection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4800d3ec-8941-439a-a1b2-cfb77b535789" name="Default Changelist" comment="" />
+      <created>1554305635539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554305635539</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29985118" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4168013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.12131148" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Introduction/Model_persistence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Learning_and_predicting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statistical_Learn/Data_estimator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/plot_iris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/plot_iris_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="65" column="21" lean-forward="true" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python37/Lib/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="2052" selection-start-line="2052" selection-end-line="2052" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statistical_Learn/Model_selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/loading_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unsupervised_Learning/Clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python37/Lib/site-packages/sklearn/model_selection/_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="721" selection-start-line="721" selection-end-line="721" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Comprehensive/Pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#63#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statistical_Learn/Supervised_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#33#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unsupervised_Learning/Decompositions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Comprehensive/Facd_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Conventions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
